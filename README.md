@@ -1,7 +1,18 @@
 # iExpense - Expense Tracking App
 
 ## Overview
-iExpense is a practical and user-friendly iOS app designed to help users manage and track their expenses. The app categorizes expenses into personal and business sections, offering a clear overview of one's financial activities.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/iExpense/assets/123434744/154f37c4-ecf3-4936-a145-362474044db6" alt="iExpense App Demo" width="300" />
+    </td>
+    <td>
+      iExpense is a practical and user-friendly iOS app designed to help users manage and track their expenses. The app categorizes expenses into personal and business sections, offering a clear overview of one's financial activities.
+    <br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
+    </td>
+  </tr>
+</table>
 
 ## Key Features
 - **Add Expenses**: Users can add new expenses with details like name, type, and amount.
@@ -27,3 +38,5 @@ iExpense is a practical and user-friendly iOS app designed to help users manage 
 Note: This project is a part of the "100 Days of SwiftUI" course, designed and implemented by me as part of my iOS development learning journey.
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
