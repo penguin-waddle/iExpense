@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/iExpense/assets/123434744/154f37c4-ecf3-4936-a145-362474044db6" alt="iExpense App Demo" width="300" />
+      <img src="https://github.com/penguin-waddle/iExpense/assets/123434744/154f37c4-ecf3-4936-a145-362474044db6" alt="iExpense App Demo" width="2100" />
     </td>
     <td>
       iExpense is a practical and user-friendly iOS app designed to help users manage and track their expenses. The app categorizes expenses into personal and business sections, offering a clear overview of one's financial activities.
